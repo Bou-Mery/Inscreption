@@ -1,5 +1,5 @@
 
-# TP Android : Inscription à une Formation
+# TP1 Android : Inscription à une Formation
 
 # Description
 Ce TP a pour but de réaliser une interface mobile Android permettant à un utilisateur de s'inscrire à une formation. L'utilisateur peut saisir ses informations personnelles (nom, email, téléphone, adresse, et ville) dans un formulaire. Après avoir rempli les champs, un bouton "Envoyer" permet de valider l'inscription et de rediriger vers une autre activité qui affiche un récapitulatif des informations saisies.
@@ -40,10 +40,6 @@ Clone le dépôt du projet :
    ```bash
    git clone  https://github.com/Bou-Mery/Tp1_Inscreption.git
    ```
-
-2. Ouvre le projet dans Android Studio :
-   - Lance **Android Studio**.
-   - Sélectionne "Open an existing project" et choisis le dossier du projet cloné.
 
 # Démarche de Développement
 
