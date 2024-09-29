@@ -27,7 +27,7 @@ Ce TP a pour but de réaliser une interface mobile Android permettant à un util
 
 - **Langage de programmation :** Java
 - **IDE :** Android Studio
-- **Version Android :** API 21+ (Android 5.0 Lollipop ou plus)
+- **Version Android :** API 24+ 
 - **Widgets utilisés :**
   - `EditText` pour les champs de texte (nom, email, téléphone, adresse)
   - `Spinner` pour la sélection de la ville
@@ -57,9 +57,9 @@ Clone le dépôt du projet :
 
 # Démonstration Vidéo
 
-Voici une courte démonstration de l'application mobile montrant le processus d'inscription et d'affichage du récapitulatif :
+Voici une courte démonstration de l'application :
 
-[![Vidéo de démonstration]
+[Cliquez ici pour télécharger la vidéo](https://drive.google.com/file/d/1-S-mrJcG3JRHwtgZQwpC-covllpALCQ4/view?usp=sharing)
 
 ---
 
