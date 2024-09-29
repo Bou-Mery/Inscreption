@@ -59,7 +59,7 @@ Clone le dépôt du projet :
 
 Voici une courte démonstration de l'application :
 
-[Cliquez ici pour télécharger la vidéo](https://drive.google.com/file/d/1-S-mrJcG3JRHwtgZQwpC-covllpALCQ4/view?usp=sharing)
+[Cliquez ici pour regarder la vidéo](https://drive.google.com/file/d/1-S-mrJcG3JRHwtgZQwpC-covllpALCQ4/view?usp=sharing)
 
 ---
 
