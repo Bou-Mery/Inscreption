@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tp_Inscription</string>
+    <string name="name"><![CDATA[Nom & Prénom :]]></string>
+    <string name="email">Email :</string>
+    <string name="phone">Phone :</string>
+    <string name="adresse">Adresse :</string>
+    <string name="envoyer">Envoyer</string>
+    <string name="ville">Ville :</string>
+    <string name="nameInfo" ></string>
+    <string name="emailInfo" />
+    <string name="phoneInfo" />
+    <string name="adresseInfo" />
+    <string name="villeInfo" />
+    <string name="annuler">Annuler</string>
+    <array name="villes">
+        <item>El jadida</item>
+        <item>Tanger</item>
+        <item>Marrakech</item>
+        <item>Rabat</item>
+    </array>
+</resources>
