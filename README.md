@@ -55,7 +55,7 @@ Clone le dépôt du projet :
 
 Voici une courte démonstration de l'application :
 
-[Cliquez ici pour regarder la vidéo](https://drive.google.com/file/d/1W1K7ULg8_risRHf9NkJzbL37M9Lqmk5r/view)
+https://github.com/user-attachments/assets/966c02c5-ba9f-415f-abb4-cbcee250e12e
 
 ---
 
